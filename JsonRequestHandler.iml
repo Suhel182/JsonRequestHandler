@@ -12,6 +12,12 @@
         <sourceRoots />
       </configuration>
     </facet>
+    <facet type="google-app-engine" name="Google App Engine">
+      <configuration>
+        <sdk-home-path>C:/google app engine sdk/appengine-java-sdk-1.9.42</sdk-home-path>
+        <persistence-api>JDO3</persistence-api>
+      </configuration>
+    </facet>
   </component>
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8" inherit-compiler-output="false">
     <output url="file://$MODULE_DIR$/target/classes" />
